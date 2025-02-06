@@ -12,8 +12,15 @@
     background-repeat: no-repeat;
     background-position: bottom right ;
 }
-.background3{
+/* .background3{
     background-image: url('../c1-assets/cute-pet-mid.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    justify-content: space-between;
+    align-items: flex-end;
 }
+.background4{
+    background-image: url('../c1-assets/cute-dog-mid.png');
+    background-repeat: no-repeat;
+    background-position: right;
+} */
