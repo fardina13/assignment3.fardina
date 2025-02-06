@@ -2,7 +2,6 @@
     background-image: url('../c1-assets/cat-big.png');
     background-repeat: no-repeat;
     background-size: cover;
-    
     justify-content: space-between;
     align-items: flex-end;
     background-position: top right;
@@ -12,4 +11,9 @@
     background-image: url('../c1-assets/cute-pet-small.png');
     background-repeat: no-repeat;
     background-position: bottom right ;
+}
+.background3{
+    background-image: url('../c1-assets/cute-pet-mid.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
